@@ -1,0 +1,2 @@
+ "start": "node server/server.js" // esto hay que configurarlo en package.json para que heroku sepa el archivo que va a iniciar la aplicacion
+ git init //iniciamos git 
